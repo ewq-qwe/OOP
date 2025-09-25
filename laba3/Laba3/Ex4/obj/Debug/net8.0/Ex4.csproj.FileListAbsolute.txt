@@ -1,0 +1,14 @@
+D:\stud\OOP\laba3\Laba3\Ex4\obj\Debug\net8.0\Ex4.GeneratedMSBuildEditorConfig.editorconfig
+D:\stud\OOP\laba3\Laba3\Ex4\obj\Debug\net8.0\Ex4.AssemblyInfoInputs.cache
+D:\stud\OOP\laba3\Laba3\Ex4\obj\Debug\net8.0\Ex4.AssemblyInfo.cs
+D:\stud\OOP\laba3\Laba3\Ex4\obj\Debug\net8.0\Ex4.csproj.CoreCompileInputs.cache
+D:\stud\OOP\laba3\Laba3\Ex4\bin\Debug\net8.0\Ex4.exe
+D:\stud\OOP\laba3\Laba3\Ex4\bin\Debug\net8.0\Ex4.deps.json
+D:\stud\OOP\laba3\Laba3\Ex4\bin\Debug\net8.0\Ex4.runtimeconfig.json
+D:\stud\OOP\laba3\Laba3\Ex4\bin\Debug\net8.0\Ex4.dll
+D:\stud\OOP\laba3\Laba3\Ex4\bin\Debug\net8.0\Ex4.pdb
+D:\stud\OOP\laba3\Laba3\Ex4\obj\Debug\net8.0\Ex4.dll
+D:\stud\OOP\laba3\Laba3\Ex4\obj\Debug\net8.0\refint\Ex4.dll
+D:\stud\OOP\laba3\Laba3\Ex4\obj\Debug\net8.0\Ex4.pdb
+D:\stud\OOP\laba3\Laba3\Ex4\obj\Debug\net8.0\Ex4.genruntimeconfig.cache
+D:\stud\OOP\laba3\Laba3\Ex4\obj\Debug\net8.0\ref\Ex4.dll
